@@ -1,5 +1,12 @@
+<<<<<<< Updated upstream
 node ()
 {
 
 
-}   
+}  
+Node ('maven-label')
+{
+stage ("1")
+}
+}
+
